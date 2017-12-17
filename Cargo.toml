@@ -1,0 +1,6 @@
+[package]
+name = "farenheit_to_celsius"
+version = "0.1.0"
+authors = ["Meenakshi Sundaram <vms20591@gmail.com>"]
+
+[dependencies]
